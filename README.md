@@ -32,7 +32,7 @@ This project requires the following:
 - [Download Portfolio ZIP](https://github.com/yourusername/portfolio/archive/refs/heads/main.zip)
 
 ## Preview
-To preview the portfolio, open `index.html` in your browser or deploy it using GitHub Pages, Netlify, or Vercel.
+To preview the portfolio, open `ananya portfolio.html` in your browser or deploy it using GitHub Pages, Netlify, or Vercel.
 
 ## Contact
 If you have any queries, feel free to reach out:
