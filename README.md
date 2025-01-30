@@ -1,6 +1,6 @@
 # Ananya's Portfolio
 
-![Portfolio Preview](profile-picture.jpg)
+![Portfolio Preview](sri.jpg)
 
 ## About
 This is a personal portfolio website showcasing my projects, skills, and achievements. The website is built using HTML, CSS, and JavaScript.
