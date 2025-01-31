@@ -20,7 +20,7 @@ This project requires the following:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Anu3328/portfolio
    ```
 2. Navigate to the project directory:
    ```sh
